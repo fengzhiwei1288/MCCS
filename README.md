@@ -8,7 +8,7 @@ This repository contains all in-house command-line tools served in the MCCS prot
 |-|-|-|-|
 |[pdbget](https://github.com/fengzhiwei1288/pdbget)|multi-threaded PDB structure download and protein chain split|![build workflow](https://github.com/stcmz/pdbget/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/pdbget/actions/workflows/release.yml/badge.svg)|
 |[jdock](https://github.com/fengzhiwei1288/jdock)|fast molecular docking, structure scoring and residue energy contribution vectors computation|![build workflow](https://github.com/stcmz/jdock/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/jdock/actions/workflows/release.yml/badge.svg)|
-|[MCCS-PPI](https://github.com/fengzhiwei1288/MCCS-PPI)|scripts to create an MCCS docker image with all first-party and third-party software used in the MCCS protocol|![build workflow](https://github.com/stcmz/mccs-docker/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/mccs-docker/actions/workflows/release.yml/badge.svg)|
+|[MCCS-PPI](https://github.com/fengzhiwei1288/MCCS-PPI)|scripts to create an MCCS-PPI docker image with all first-party and third-party software used in the MCCS protocol|![build workflow](https://github.com/stcmz/mccs-docker/actions/workflows/build.yml/badge.svg)|![release workflow](https://github.com/stcmz/mccs-docker/actions/workflows/release.yml/badge.svg)|
 
 
 ## Related Repositories
